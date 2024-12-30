@@ -3,6 +3,7 @@
 #cd ~/Documents/GitHub/myGit/istioRoom/extproc/proj1
 
 #Base kuberenetes setup with istio running
+
 2. kubectl run nginx --image=nginx
 3. kubectl label pod nginx app=default
 
